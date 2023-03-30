@@ -1,0 +1,681 @@
+/* barlow-regular - latin */
+@font-face {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/barlow-v12-latin-regular.eot');
+    /* IE9 Compat Modes */
+    src: local(''),
+        url('../fonts/barlow-v12-latin-regular.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/barlow-v12-latin-regular.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/barlow-v12-latin-regular.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/barlow-v12-latin-regular.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/barlow-v12-latin-regular.svg#Barlow') format('svg');
+    /* Legacy iOS */
+}
+
+/* barlow-500 - latin */
+@font-face {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/barlow-v12-latin-500.eot');
+    /* IE9 Compat Modes */
+    src: local(''),
+        url('../fonts/barlow-v12-latin-500.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/barlow-v12-latin-500.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/barlow-v12-latin-500.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/barlow-v12-latin-500.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/barlow-v12-latin-500.svg#Barlow') format('svg');
+    /* Legacy iOS */
+}
+
+/* barlow-600 - latin */
+@font-face {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/barlow-v12-latin-600.eot');
+    /* IE9 Compat Modes */
+    src: local(''),
+        url('../fonts/barlow-v12-latin-600.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/barlow-v12-latin-600.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/barlow-v12-latin-600.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/barlow-v12-latin-600.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/barlow-v12-latin-600.svg#Barlow') format('svg');
+    /* Legacy iOS */
+}
+
+/* barlow-700 - latin */
+@font-face {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/barlow-v12-latin-700.eot');
+    /* IE9 Compat Modes */
+    src: local(''),
+        url('../fonts/barlow-v12-latin-700.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/barlow-v12-latin-700.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/barlow-v12-latin-700.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/barlow-v12-latin-700.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/barlow-v12-latin-700.svg#Barlow') format('svg');
+    /* Legacy iOS */
+}
+
+/* barlow-800 - latin */
+@font-face {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fonts/barlow-v12-latin-800.eot');
+    /* IE9 Compat Modes */
+    src: local(''),
+        url('../fonts/barlow-v12-latin-800.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/barlow-v12-latin-800.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/barlow-v12-latin-800.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/barlow-v12-latin-800.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/barlow-v12-latin-800.svg#Barlow') format('svg');
+    /* Legacy iOS */
+}
+
+/* fraunces-regular - latin */
+@font-face {
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/fraunces-v26-latin-regular.eot');
+    /* IE9 Compat Modes */
+    src: local(''),
+        url('../fonts/fraunces-v26-latin-regular.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/fraunces-v26-latin-regular.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/fraunces-v26-latin-regular.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/fraunces-v26-latin-regular.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/fraunces-v26-latin-regular.svg#Fraunces') format('svg');
+    /* Legacy iOS */
+}
+
+/* fraunces-500 - latin */
+@font-face {
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/fraunces-v26-latin-500.eot');
+    /* IE9 Compat Modes */
+    src: local(''),
+        url('../fonts/fraunces-v26-latin-500.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/fraunces-v26-latin-500.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/fraunces-v26-latin-500.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/fraunces-v26-latin-500.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/fraunces-v26-latin-500.svg#Fraunces') format('svg');
+    /* Legacy iOS */
+}
+
+/* fraunces-600 - latin */
+@font-face {
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/fraunces-v26-latin-600.eot');
+    /* IE9 Compat Modes */
+    src: local(''),
+        url('../fonts/fraunces-v26-latin-600.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/fraunces-v26-latin-600.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/fraunces-v26-latin-600.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/fraunces-v26-latin-600.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/fraunces-v26-latin-600.svg#Fraunces') format('svg');
+    /* Legacy iOS */
+}
+
+/* fraunces-700 - latin */
+@font-face {
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/fraunces-v26-latin-700.eot');
+    /* IE9 Compat Modes */
+    src: local(''),
+        url('../fonts/fraunces-v26-latin-700.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/fraunces-v26-latin-700.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/fraunces-v26-latin-700.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/fraunces-v26-latin-700.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/fraunces-v26-latin-700.svg#Fraunces') format('svg');
+    /* Legacy iOS */
+}
+
+:root {
+    --white: rgba(255, 255, 255, 1);
+    --black: rgba(36, 48, 62, 1);
+    --lightgrey: rgba(128, 131, 151, 1);
+    --grey: rgba(167, 170, 173, 1);
+    --dark-grey: rgba(91, 99, 109, 1);
+    --lightgreen: rgba(69, 141, 126, 1);
+    --green: rgba(62, 116, 103, 1);
+    --dark-green: rgba(36, 85, 74, 1);
+    --orange: #FE7766;
+    --green-footer: rgba(144, 212, 198, 1);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+body {
+    width: 100vw;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 600;
+
+}
+
+h1,
+h2,
+h3,
+a.link-desc {
+    font-family: 'fraunces', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+.h1 {
+    font-size: 5.6rem;
+    font-weight: 700;
+    color: var(--white);
+}
+
+.h2 {
+    font-size: 4rem;
+    color: var(--black)
+}
+
+.h3 {
+
+    font-size: 2.8rem;
+}
+
+.btn {
+    box-shadow: inset 0px 1px 0px 0px #ffffff;
+    background: linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%);
+    background-color: #f9f9f9;
+    border-radius: 6px;
+    border: 1px solid #dcdcdc;
+    display: inline-block;
+    cursor: pointer;
+    color: #666666;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 6px 24px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #ffffff;
+}
+
+.btn:hover {
+    background: linear-gradient(to bottom, #e9e9e9 5%, #f9f9f9 100%);
+    background-color: #e9e9e9;
+}
+
+.btn:active {
+    position: relative;
+    top: 1px;
+}
+
+.main-hero {
+    text-align: center;
+    background-image: url('../img/fruit_1.jpg');
+    background-position: center;
+    background-size: cover;
+    min-height: 80rem;
+}
+
+.main-nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 3.4rem 4rem 10.5rem 4rem;
+    align-items: center;
+}
+
+#logo-sunnyside {
+    min-width: 12.3rem;
+
+}
+
+.main-nav .nav {
+    display: inline-flex;
+    justify-content: space-around;
+}
+
+.main-nav .nav-item a {
+    padding: 1.6rem 3.2rem;
+    color: white;
+}
+
+
+
+.nav-item:hover a {
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 2.8rem;
+}
+
+/* Le media screen comportant tous les éléments du menu burger */
+@media (max-width:900px) {
+
+    .main-hero {
+        position: relative;
+    }
+
+    .nav {
+        position: absolute;
+        width: 32.9rem;
+        height: 32.9rem;
+        background-color: var(--white);
+        top: 106px;
+        right: 24px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        padding: 3.9rem 0;
+        opacity: 0;
+        transition: 0.3s ease;
+    }
+
+    .main-nav .nav-item a {
+        color: var(--lightgrey);
+    }
+
+    .main-nav .nav-item:hover a {
+        background-color: rgba(251, 214, 0, 1);
+        color: var(--black);
+    }
+
+
+    .lines-burger {
+        position: absolute;
+        top: 35px;
+        right: 24px;
+        cursor: pointer;
+    }
+
+    .lines-burger:hover {
+        opacity: .5;
+    }
+
+    .line-burger {
+        border: 2px solid white;
+        width: 30px;
+        margin-bottom: 10px;
+    }
+
+    ul.nav::before {
+        content: "";
+        display: inline-block;
+        position: absolute;
+        border-bottom: 2.4rem solid #FFFCF8;
+        border-left: 2.4rem solid transparent;
+        top: -2rem;
+        position: absolute;
+        right: 0;
+    }
+
+}
+
+.active {
+    opacity: 1;
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    width: 100%;
+}
+
+.text-hero {
+    padding-bottom: clamp(3.25em, 2.2817em + 4.1315vw, 6em);
+}
+
+.arrow {
+    place-self: center;
+}
+
+/* formulaire concernant les ingrédients utilisateurs */
+#form-fridge {
+    width: 100vw;
+    display: grid;
+    grid-template-rows: repeat(6, 1fr);
+    row-gap: 2rem;
+    place-items: center;
+    margin-bottom: 8rem;
+
+}
+
+.ingredient {
+    display: flex;
+    flex-direction: column;
+    width: 80vw
+}
+
+.input {
+    padding: 41px 0px;
+    margin-top: 0px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid lightblue;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    background-color: rgb(242, 213, 198);
+}
+
+
+
+.main-grid-section {
+    display: grid;
+    width: 100vw;
+    grid-template-columns: 1fr;
+    padding-bottom: clamp(3.8125em, 1.6338em + 9.2958vw, 10em);
+
+}
+
+.block-grid {
+    width: 100vw;
+}
+
+.desc {
+    min-height: 43.7rem;
+    padding: 2.4rem 6.4rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.desc-graphic,
+.desc-photography {
+    display: flex;
+    min-height: 60rem;
+    align-items: flex-end;
+    justify-content: center;
+    padding-bottom: 5.9rem;
+    text-align: center;
+}
+
+.desc-graphic p,
+.desc-photography p {
+    max-width: 33.9rem;
+    font-size: 1.6rem;
+}
+
+.h2 {
+    padding-bottom: 3.3rem;
+}
+
+.desc p {
+    padding-bottom: 4rem;
+}
+
+@media screen and (min-width:900px) {
+    .main-grid-section {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .block-grid {
+        transition: 0.3s ease;
+        width: 50vw;
+    }
+
+    .img-brand {
+        grid-column-start: 2;
+    }
+
+}
+
+.img-brand {
+    grid-row-start: 1;
+}
+
+.img-brand img,
+.img-audience img {
+    width: 100%;
+    height: 100%;
+}
+
+@media screen and (min-width:900px) {
+    .main-grid-section {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .block-grid {
+        transition: 0.1s;
+        width: 50vw;
+    }
+
+    .img-brand {
+        grid-column-start: 2;
+    }
+
+}
+
+.desc-graphic {
+    background-image: url('../img/fruit_2.png');
+    background-position: center;
+    background-size: cover;
+    min-height: 60rem;
+
+}
+
+.desc-photography {
+    background-image: url('../img/fruit_3.jpg');
+    background-position: center;
+    background-size: cover;
+    min-height: 60rem;
+
+}
+
+.p-desc {
+    color: var(--lightgrey);
+    font-size: 1.8rem;
+}
+
+.link-desc {
+    position: relative;
+    font-family: 'Fraunces', sans-serif;
+    font-size: 1.5rem;
+    color: var(--black);
+}
+
+.link-desc:after {
+    content: '';
+    position: absolute;
+    width: 13.7rem;
+    height: 10px;
+    background-color: rgba(250, 212, 0, 0.3);
+    top: 1.4rem;
+    left: -1.4rem;
+    border-radius: 20px;
+    z-index: -1;
+
+}
+
+.link-desc:hover:after {
+    background-color: rgba(250, 212, 0, 1);
+}
+
+.desc-graphic .h3 {
+    color: var(--dark-green);
+    padding-bottom: 2.7rem;
+
+}
+
+.p-desc-graphic {
+    color: var(--green);
+}
+
+.desc-photography .h3 {
+    color: rgba(5, 44, 59, 1);
+    padding-bottom: 2.7rem;
+}
+
+.p-desc-photography {
+    color: rgba(25, 83, 108, 1);
+}
+
+.cards-clients {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: space-around;
+    width: 100vw;
+    gap: clamp(1.5em, -1.603em + 13.2394vw, 3.3125em);
+    place-items: center;
+    text-align: center;
+    padding-bottom: 6.9em;
+    padding-left: clamp(1.5em, -1.603em + 13.2394vw, 10.3125em);
+    padding-right: clamp(1.5em, -1.603em + 13.2394vw, 10.3125em);
+}
+
+@media screen and (max-width:900px) {
+    .desc {
+        text-align: center;
+    }
+
+    .link-desc {
+        align-self: center;
+    }
+
+    .cards-clients {
+        grid-template-columns: 1fr;
+        gap: none;
+    }
+}
+
+.title-client {
+    font-size: 2rem;
+    font-family: 'Fraunces', sans-serif;
+    font-weight: 900;
+    color: var(--grey);
+    text-align: center;
+    padding-bottom: clamp(4em, 3.6259em + 1.5962vw, 5.0625em);
+}
+
+.client {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 35rem;
+    padding-bottom: 6.4rem;
+}
+
+
+.card-img {
+    width: 7.2rem;
+    padding-bottom: 3.2rem;
+}
+
+.client p {
+    color: var(--dark-grey);
+    font-size: 1.8rem;
+    line-height: 3.2rem;
+    padding-bottom: 3.2rem;
+}
+
+.name-client {
+    font-family: 'fraunces';
+    color: rgba(36, 48, 62, 1);
+    font-size: 1.8rem;
+    line-height: 2.2rem;
+    padding-bottom: 0.9rem;
+}
+
+.job-client {
+    color: rgba(167, 170, 173, 1);
+    font-size: 1.4rem;
+    line-height: 2.5rem;
+}
+
+.pictures {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+@media screen and (max-width:900px) {
+    .pictures {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+.pictures figure img {
+    width: 100%;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 7.2rem;
+    background-color: var(--green-footer);
+    padding-top: 7.2rem;
+}
+
+.logo-footer {
+    padding-bottom: 4rem;
+}
+
+.main-social-media {
+    display: inline-flex;
+    gap: 2.8rem;
+}
+
+.links-footer {
+    display: inline-flex;
+    text-align: center;
+    padding-bottom: 8.8rem;
+    gap: 5.7rem;
+}
+
+.link-item {
+    color: var(--lightgreen);
+}
+
+.link-item:hover {
+    color: var(--white);
+}
